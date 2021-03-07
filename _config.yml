@@ -1,6 +1,6 @@
 # Site settings
 name: Lia Verso
-title: Lia Verso | Statistician
+title: Lia Verso
 description: Open minded statistician approaching finance.
 url: https://sitename.github.io/
 baseurl: ''
@@ -20,7 +20,7 @@ social:
   - title: github
     url: https://github.com/
   - title: linkedin
-    url: https://www.linkedin.com/in/
+    url: https://www.linkedin.com/in/liaverso7/
 
 # Build settings
 markdown: kramdown
