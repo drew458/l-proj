@@ -101,7 +101,7 @@
     - thing: CSS
 
 - name: CourseSource
-  url: http://webdevspring2016-chiangbrittany.rhcloud.com/project/client/#/login
+  url: http://webdevspring2016-sitename.rhcloud.com/project/client/#/login
   code: https://github.com/sitename/WebDevSpring2016/tree/master/public/project
   description: A web application built on the MEAN (MongoDB, Express, Angular, Node) stack for my web development course at Northeastern. I created this web app with the intention of providing Northeastern Students a better experience browsing the courses offered at Northeastern.
   used:

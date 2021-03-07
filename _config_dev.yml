@@ -1,26 +1,26 @@
 # Site settings
 name: Lia Verso
-title: Lia Verso | Front End Software Engineer
-description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
+title: Lia Verso | Statistician
+description: Opend minded statistician approaching finance.
 url: https://sitename.github.io/
 baseurl: ''
-email: brittany.chiang@gmail.com
+email: 99liaverso@gmail.com
 cover: https://sitename.github.io/img/og.png
 logo: https://sitename.github.io/img/emojis/technologist.png
 resume: https://sitename.github.io/resume.pdf
 social:
   - title: email
-    url: mailto:brittany.chiang@gmail.com
-  - title: twitter
-    url: https://twitter.com/sitename
-  - title: instagram
-    url: https://instagram.com/sitename
-  - title: codepen
-    url: http://codepen.io/sitename
+    url: mailto:99liaverso@gmail.com
+  #- title: twitter
+  #  url: https://twitter.com/
+  #- title: instagram
+  #  url: https://instagram.com/
+  #- title: codepen
+  #  url: http://codepen.io/
   - title: github
-    url: https://github.com/sitename
+    url: https://github.com/
   - title: linkedin
-    url: https://www.linkedin.com/in/sitename
+    url: https://www.linkedin.com/in/
 
 # Build settings
 markdown: kramdown
