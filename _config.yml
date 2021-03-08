@@ -2,12 +2,12 @@
 name: Lia Verso
 title: Lia Verso
 description: Open minded statistician approaching finance.
-url: https://sitename.github.io/
+url: https://liaverso.it/
 baseurl: ''
 email: 99liaverso@gmail.com
-cover: https://sitename.github.io/img/og.png
-logo: https://sitename.github.io/img/emojis/technologist.png
-resume: https://sitename.github.io/resume.pdf
+cover: img\og.png
+logo: img\emojis\woman-student.png
+resume: resume.pdf
 social:
   - title: email
     url: mailto:99liaverso@gmail.com
