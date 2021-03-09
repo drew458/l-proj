@@ -2,7 +2,7 @@
 Minimal and lightweight portfolio built on Jekyll.
 
 ## Features
-Night mode and emoji animations
+Night mode and emoji animations.
 
 ## Getting Started
 
