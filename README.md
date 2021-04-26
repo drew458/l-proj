@@ -6,6 +6,8 @@ Night mode and emoji animations.
 
 ## Getting Started
 
+Assuming you have Ruby and RubyGem package manager installed, 
+
 1.  `gem install jekyll` 
 2. `gem install sass`
 3. `gem install bundler`
