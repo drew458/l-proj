@@ -1,4 +1,4 @@
-# Description
+## Description
 Minimal and lightweight portfolio built on Jekyll.
 
 ## Features
